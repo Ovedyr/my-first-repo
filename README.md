@@ -1,1 +1,2 @@
-Minor changes to readme
+Minor changes to readme/ update to practice diff command
+
