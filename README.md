@@ -1,2 +1,2 @@
-# my-first-repo
-Learning Git
+Minor changes to readme/ update to practice diff command
+
